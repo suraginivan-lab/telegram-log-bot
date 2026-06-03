@@ -24,7 +24,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/yourusername/telegram-log-monitor-bot.git
+git clone https://github.com/suraginivan-lab/telegram-log-bot.git
 cd telegram-log-monitor-bot
 ```
 
